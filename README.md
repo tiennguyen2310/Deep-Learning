@@ -1,1 +1,1 @@
-# Deep Learning Lesson 1
+# Deep Learning First Course
